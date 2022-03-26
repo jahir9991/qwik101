@@ -1,0 +1,21 @@
+{
+  "mapping": {
+    "Main_onRender_div_onDocumentExpensiveComputationDone": "q-9419bbc9.js",
+    "Main_onRender_input_onKeyup": "q-9419bbc9.js",
+    "Main_onRender": "q-9419bbc9.js",
+    "Main_onmount": "q-9419bbc9.js",
+    "Home_onRender": "q-9419bbc9.js",
+    "Home_onmount": "q-9419bbc9.js"
+  },
+  "version": "1",
+  "injections": [
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "stylesheet",
+        "href": "/q-b6f777a7.css"
+      }
+    }
+  ]
+}
